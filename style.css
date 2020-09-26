@@ -1,0 +1,19 @@
+.purple-text {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+}
+body {
+    background-color: whitesmoke;
+}
+.black {
+    background-color: blue;
+}
+#cat{
+    width: 500px;
+    border-radius: 50px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
